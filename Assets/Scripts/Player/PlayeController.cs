@@ -6,7 +6,7 @@ public class PlayeController : MonoBehaviour
     public float velocidad;
     private Rigidbody rb;
     public GameManager cubeScript;
-
+//
     void Start()
     {
         rb = GetComponent<Rigidbody>();
